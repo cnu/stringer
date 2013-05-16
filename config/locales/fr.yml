@@ -46,8 +46,8 @@ fr:
       subtitle: ! 'Il n''y a qu''un seul utilisateur : vous.'
       title: Stringer est
   flash:
-    cookies_required: 
-    js_required: 
+    cookies_required: ! 'C''est embêtant : les cookies sont obligatoires pour le bon fonctionnement de l''application.'
+    js_required: ! 'C''est embêtant : Javascript est obligatoire pour le bon fonctionnement de l''application.'
   import:
     description: ! '%{link} vos flux provenant de Google Reader et importez-les.'
     export: Exportez
@@ -98,6 +98,7 @@ fr:
       archive: voir toutes les entrées
       go_make: allez faire quelque chose
       gtfo: Maintenant cessez de lire et
+      rss_zero: Vous avez atteint RSS Zéro&trade;
   sessions:
     destroy:
       flash:
